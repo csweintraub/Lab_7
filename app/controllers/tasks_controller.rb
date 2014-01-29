@@ -2,7 +2,7 @@ class TasksController < ApplicationController
   before_filter :login_required
 
   def index
-    @tasks = Task.all
+    @tasks = Task.alphabetical.all
   end
 
   def show
