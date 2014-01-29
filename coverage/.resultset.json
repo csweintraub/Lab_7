@@ -135,7 +135,7 @@
         1,
         null,
         1,
-        0,
+        1,
         null,
         null,
         null
@@ -186,6 +186,24 @@
       ],
       "/home/vagrant/lab7/app/models/chore.rb": [
         1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
         1,
         null,
         null,
@@ -340,6 +358,6 @@
         null
       ]
     },
-    "timestamp": 1390973075
+    "timestamp": 1390973846
   }
 }
